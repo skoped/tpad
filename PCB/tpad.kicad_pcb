@@ -7365,7 +7365,7 @@
 			(remove_unused_layers no)
 			(net "unconnected-(U1-PB09_A7_D7_RX-Pad8)")
 			(pinfunction "PB09_A7_D7_RX_8")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "14690451-35e5-4895-b602-aebcb3c7493a")
 		)
 		(pad "9" thru_hole oval
@@ -7443,7 +7443,7 @@
 			(remove_unused_layers no)
 			(net "unconnected-(U1-5V-Pad14)")
 			(pinfunction "5V_14")
-			(pintype "passive")
+			(pintype "passive+no_connect")
 			(uuid "344633b6-ea40-45d6-8289-f6f22d2b176f")
 		)
 		(embedded_fonts no)
